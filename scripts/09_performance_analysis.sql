@@ -14,8 +14,9 @@ SQL Functions Used:
 ===============================================================================
 */
 
-/* Analyze the yearly performance of products by comparing their sales 
-to both the average sales performance of the product and the previous year's sales */
+-- Analyze the yearly performance of products by comparing their sales 
+--to both the average sales performance of the product and the previous year's sales 
+
 
 --CTE
 WITH yearly_product_sales as (
