@@ -8,7 +8,6 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🌟 About Me
 
 Hi there! I am **Darko Milic** , Economics graduate moving into data analytics, especially sales and finance analytics.
-**Tools:** SQL Server & SSMS, T-SQL, Python (pandas), basic Power BI.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darkomilic370/)
 ---
